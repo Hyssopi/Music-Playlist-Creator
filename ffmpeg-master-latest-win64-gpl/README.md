@@ -1,2 +1,2 @@
-1. Download `ffmpeg-master-latest-win64-gpl.zip` from https://github.com/BtbN/FFmpeg-Builds/releases
+1. Download `ffmpeg-master-latest-win64-gpl.zip` from https://github.com/BtbN/FFmpeg-Builds/releases/tag/latest
 1. Extract the zip file to have this directory layout: `Music-Playlist-Creator/ffmpeg-master-latest-win64-gpl/bin/ffmpeg.exe`
